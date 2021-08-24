@@ -20,6 +20,7 @@ async def main():
             print("range:", sp_range)
             results = sp.current_user_top_tracks(time_range=sp_range, limit=50)
             async with session.get(results) as resp:
+              results = await resp.json()
                 for i, item in enumerate(results['items']):
                     print(i, item['name'], '//', item['artists'][0]['name'])
                 print()
