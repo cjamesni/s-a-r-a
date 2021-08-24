@@ -1,2 +1,2 @@
-# 's-a-r-a' Spotify-API-Reqs-Async
+# 's-a-r-a' Spotify API Requests with Asyncio
  
