@@ -7,6 +7,8 @@ refs –
 
 [https://docs.python.org/3/library/asyncio.html](https://docs.python.org/3/library/asyncio.html)
 
+[https://docs.python.org/3/reference/compound_stmts.html#async-def](https://docs.python.org/3/reference/compound_stmts.html#async-def)
+
 [https://pypi.org/project/python-decouple/](https://pypi.org/project/python-decouple/)
 
 [https://developer.spotify.com/documentation/general/guides/authorization-guide/](https://developer.spotify.com/documentation/general/guides/authorization-guide/)
